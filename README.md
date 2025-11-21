@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Mohammed Ehteshaam Baquer<br><br>🎓 Studying Applied Mathematics & Technological Systems Management @ Stony Brook University<br>📊 Aspiring Data Scientist & Mathematician<br>💻 Love coding personal projects that make life better in small but meaningful ways<br>🏎️ Currently finishing an F1 Race Outcome Prediction ML Project before summer break<br>📚 Goal: Make meaningful contributions to Applied & Academic Statistics
+👋 Hey, I'm Mohammed Ehteshaam Baquer<br><br>🎓 Studying Applied Mathematics & Technological Systems Management @ Stony Brook University<br>📊 Aspiring Data Scientist & Mathematician<br>💻 Love coding personal projects that make life better in small but meaningful ways<br>🏎️ Currently finishing an F1 Race Outcome Prediction ML Project<br>📚 Goal: Make meaningful contributions to Applied & Academic Statistics
 
 
 ## 🌐 Socials:
