@@ -18,14 +18,6 @@ I’m passionate about **turning data into decisions** — blending **causal inf
 
 ---
 
-## 🕹️ Commit Snake
-
-> A little game that runs through my GitHub contribution grid – Snake vibes for my commits 👾
-
-![GitHub Contribution Game](https://github.com/ehte08/ehte08/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📂 Featured Projects
 
 Here are my pinned repositories, each showcasing domain-specific projects:
