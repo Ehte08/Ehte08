@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Aryan Sharma  
+# 👋 Hi, I'm Mohammed Baquer  
 
-**Data Scientist | AI & Business Analytics | ML & NLP Enthusiast**  
+**Data Scientist | Product insights Manager | ML & NLP Enthusiast**  
 
-I’m a Tampa-based Data Scientist with **7+ years of experience** designing **end-to-end ML systems**, statistical modeling workflows, and scalable AI solutions across finance, risk, and operations.  
-I’m passionate about **turning data into decisions** — blending **causal inference**, **machine learning**, and **modern AI** to deliver measurable business impact.  
+I’m a student at Stony Brook University in **Applied Mathematics and Statistics with a second major in Technology Management and a minor in Information Systems** looking currently for **202 summer internship oppurtunities**, having completed my coursework in Linear Regression Analysis, Data Structures and Algorithms, Time series analysis and many more Data intensive courses.
+I’m passionate about **turning data into decisions** — blending **causal inference**, **machine learning**, and **modern AI tools** to deliver measurable business impact.  
 
 ---
 
@@ -22,7 +22,7 @@ I’m passionate about **turning data into decisions** — blending **causal inf
 
 > A little game that runs through my GitHub contribution grid – Snake vibes for my commits 👾
 
-![GitHub Contribution Game](https://github.com/markusndco/markusndco/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Game](https://github.com/ehte08/ehte08/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
