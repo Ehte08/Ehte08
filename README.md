@@ -2,7 +2,7 @@
 
 **Data Scientist | Product insights Manager | ML & NLP Enthusiast**  
 
-I’m a student at Stony Brook University in **Applied Mathematics and Statistics with a second major in Technology Management and a minor in Information Systems** looking currently for **202 summer internship oppurtunities**, having completed my coursework in Linear Regression Analysis, Data Structures and Algorithms, Time series analysis and many more Data intensive courses.
+I’m a student at Stony Brook University in **Applied Mathematics and Statistics with a second major in Technology Management and a minor in Information Systems** looking currently for **2026 summer internship oppurtunities**, having completed my coursework in Linear Regression Analysis, Data Structures and Algorithms, Time series analysis and many more Data intensive courses.
 I’m passionate about **turning data into decisions** — blending **causal inference**, **machine learning**, and **modern AI tools** to deliver measurable business impact.  
 
 ---
