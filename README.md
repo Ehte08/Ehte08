@@ -4,7 +4,7 @@ Data scientist from New York. I build ML systems end-to-end — scraped data to 
 
 B.S. Applied Mathematics & Statistics + Technology Management, Stony Brook University. Starting my **M.S. in Data Science at Hofstra** in August 2026. **Open to Fall 2026 internships in Machine Learning, Data Science, Generative AI, and Analytics.**
 
-**[Portfolio →](https://mohammed-baquer-portfolio.vercel.app/)**
+## **[Portfolio →](https://mohammed-baquer-portfolio.vercel.app/)**
 
 ---
 
