@@ -35,20 +35,6 @@ Image classifier hitting **94% top-1 accuracy** across 10 Marvel and DC heroes, 
 
 ---
 
-### [GenAI Chatbot](https://github.com/Ehte08)
-Generative AI chatbot that brought response times down from 4–6 hours to under 10 minutes, deflecting a significant volume of support tickets. Built on top of an LLM with a retrieval layer for grounding answers in internal documentation.
-
-`Generative AI` `LLM` `RAG` `NLP`
-
----
-
-### [Data Automation Pipeline](https://github.com/Ehte08)
-Replaced two days of manual reporting with same-day delivery — automated ingestion, transformation, and output across 10K+ rows of operational data using Python and SQL.
-
-`Python` `SQL` `data-engineering` `ETL` `automation`
-
----
-
 ### [PinchToHeart](https://github.com/Ehte08/Computer-Vision-Projects/tree/main/PinchToHeart)
 Real-time CV app that detects a pinch gesture via webcam and fires a heart emoji over iMessage — no third-party APIs, just MediaPipe's 21-point 3D hand landmarks with a depth-aware false-positive filter running natively on macOS.
 
