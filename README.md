@@ -1,14 +1,14 @@
 # Mohammed Baquer
 
-Data scientist from New York. I build ML systems end-to-end — scraped data to deployed model — and document them so the work is reproducible and the results speak for themselves.
+I built my first ML project to settle an argument with myself: could a neural network tell Batman from Iron Man? Turns out, yes — 94% of the time. I'm a data scientist from New York, and that's basically how I approach everything: find a problem that actually interests me, then build something that works.
 
 B.S. Applied Mathematics & Statistics + Technology Management, Stony Brook University. Starting my **M.S. in Data Science at Hofstra** in August 2026. **Open to Fall 2026 internships in Machine Learning, Data Science, Generative AI, and Analytics.**
 
-## **[Portfolio →](https://mohammed-baquer-portfolio.vercel.app/)**
+**[Portfolio →](https://mohammed-baquer-portfolio.vercel.app/)**
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 **Languages:** Python · SQL · Java  
 **Machine Learning:** scikit-learn · LightGBM · XGBoost · Optuna · MLflow  
@@ -19,42 +19,61 @@ B.S. Applied Mathematics & Statistics + Technology Management, Stony Brook Unive
 
 ---
 
-## Projects
+## 📂 Projects
 
-### [F1 Race Outcome Predictor](https://github.com/Ehte08/F1-Predictor)
-Learning-to-rank model that predicts Formula 1 podium finishes — **NDCG@3 of 0.91**, Spearman 0.67 on a chronological hold-out — using LightGBM trained on 8 seasons of Grand Prix data. The pipeline runs FastF1 + Ergast ingestion, Optuna hyperparameter search (30 trials), and MLflow experiment tracking, with a FastAPI REST endpoint and Streamlit dashboard on top. Leak-free rolling feature snapshots. Full pytest suite.
+### 🏎️ [F1 Race Outcome Predictor](https://github.com/Ehte08/F1-Predictor)
+
+Eight seasons of Formula 1 data, one LightGBM model, and a question I genuinely wanted answered: can you predict the podium before the race starts? The answer is yes — **NDCG@3 of 0.91**, Spearman 0.67 on a chronological hold-out. The pipeline handles everything from FastF1 + Ergast ingestion to Optuna hyperparameter search (30 trials), MLflow experiment tracking, a FastAPI REST endpoint, and a Streamlit dashboard on top. Leak-free rolling feature snapshots. Full pytest suite.
 
 `LightGBM` `MLOps` `FastAPI` `Streamlit` `learning-to-rank` `hyperparameter-optimization`
 
 ---
 
-### [Superhero Detector](https://github.com/Ehte08/Computer-Vision-Projects/tree/main/Superhero-detector)
-Image classifier hitting **94% top-1 accuracy** across 10 Marvel and DC heroes, fine-tuned from ResNet50. I built the full pipeline: scraped and deduplicated ~3,900 images, then watched the transfer learning gains stack up — TinyCNN at 55%, ResNet18 at 89%, ResNet50 at 94%. Live Gradio demo with hardware-aware inference across Apple MPS, CUDA, and CPU.
+### 🦸 [Superhero Detector](https://github.com/Ehte08/Computer-Vision-Projects/tree/main/Superhero-detector)
+
+I scraped ~3,900 images of 10 Marvel and DC heroes, then watched transfer learning do its thing: TinyCNN hit 55%, ResNet18 got to 89%, ResNet50 landed at **94% top-1 accuracy**. The Gradio demo runs hardware-aware inference — MPS on my Mac, CUDA on a GPU machine, CPU as a fallback.
 
 `PyTorch` `ResNet50` `transfer-learning` `computer-vision` `Gradio`
 
 ---
 
-### [PinchToHeart](https://github.com/Ehte08/Computer-Vision-Projects/tree/main/PinchToHeart)
-Real-time CV app that detects a pinch gesture via webcam and fires a heart emoji over iMessage — no third-party APIs, just MediaPipe's 21-point 3D hand landmarks with a depth-aware false-positive filter running natively on macOS.
+### 🤖 [GenAI Chatbot](https://github.com/Ehte08)
+
+Built a generative AI chatbot that cut response times from 4–6 hours to under 10 minutes and deflected a significant volume of support tickets. Grounded in internal documentation through a retrieval layer — so it's fast and accurate.
+
+`Generative AI` `LLM` `RAG` `NLP`
+
+---
+
+### 📊 [Data Automation Pipeline](https://github.com/Ehte08)
+
+Turned two days of manual reporting into same-day delivery. Automated ingestion, transformation, and output across 10K+ rows of operational data in Python and SQL.
+
+`Python` `SQL` `data-engineering` `ETL` `automation`
+
+---
+
+### 🤏 [PinchToHeart](https://github.com/Ehte08/Computer-Vision-Projects/tree/main/PinchToHeart)
+
+A real-time CV app that detects a pinch gesture via webcam and fires a heart emoji over iMessage — no third-party APIs, just MediaPipe's 21-point 3D hand landmarks with a depth-aware false-positive filter running natively on macOS. Yes, I built this.
 
 `MediaPipe` `OpenCV` `real-time` `computer-vision`
 
 ---
 
-## In progress
+## 🔨 In progress
 
 **Bone Fracture Detection (YOLOv8)** — object detection on X-ray data, from annotation to mAP evaluation with a full writeup.
 
-**RAG Agent** — end-to-end retrieval-augmented generation system with LangChain, a vector store, and an evaluation framework for retrieval quality and hallucination rate.
+**RAG Agent** — end-to-end retrieval-augmented generation with LangChain, a vector store, and an evaluation framework measuring retrieval quality and hallucination rate.
 
 **Causal Inference study** — Difference-in-Differences with parallel-trends validation, robustness checks, and event-study plots on a public-policy dataset.
 
 ---
 
-## Right now I'm digging into
+## 🎯 Right now I'm into
 
-LLM fine-tuning, agentic AI workflows with LangGraph, and LLM evaluation and safety frameworks. Also experimenting with LLM-driven code optimization over at [openevolvetest](https://github.com/Ehte08/openevolvetest).
+LLM fine-tuning, agentic AI workflows with LangGraph, and LLM evaluation and safety frameworks. Also poking at LLM-driven code optimization over at [openevolvetest](https://github.com/Ehte08/openevolvetest).
 
 ---
 
