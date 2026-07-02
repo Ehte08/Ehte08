@@ -73,7 +73,6 @@ I build these on the side — client work, personal tools, and things made for s
 | [Fleur de Saiya](https://github.com/Ehte08/3d-loveletter-clark) | Immersive 3D love letter built with React Three Fiber and real physics. Petal-fall animations, velvet materials, device-orientation tilt on mobile. Live at [3d-loveletter-clark.vercel.app](https://3d-loveletter-clark.vercel.app). |
 | [Project Blue](https://github.com/Ehte08/islam-fund) | Funding and networking platform for faith-conscious entrepreneurs. Built for a friend I met at the mosque. Live at [projectblueadopters.com](https://projectblueadopters.com). |
 | [The Grand Library](https://github.com/Ehte08/humming-quill) | Digital textbook library for Stony Brook students — PDF chapter splitting, Cloudflare R2 CDN, focus mode reader, keyboard navigation. Live at [thegrandlibrary.vercel.app](https://thegrandlibrary.vercel.app). |
-| [Room Control](https://github.com/Ehte08/room-control) | Voice-controlled room automation — Govee API, offline speech recognition with Vosk, double-clap detection, fuzzy command matching. No Alexa required. |
 
 ---
 
