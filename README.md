@@ -2,13 +2,13 @@
 
 I built my first ML project to settle an argument with myself: could a neural network tell Batman from Iron Man? Turns out, yes — 94% of the time. I'm a data scientist from New York, and that's basically how I approach everything: find a problem that actually interests me, then build something that works.
 
-B.S. Applied Mathematics & Statistics + Technology Management, Stony Brook University. Starting my **M.S. in Data Science at Hofstra** in August 2026. **Open to Fall 2026 internships in Machine Learning, Data Science, Generative AI, and Analytics.**
+B.S. Applied Mathematics & Statistics + Technology Management, Stony Brook University. Starting my **M.S. in Data Science at Hofstra** in August 2026. Open to **Fall 2026 internships** in Machine Learning, Data Science, Generative AI, and Analytics.
 
 **[Portfolio →](https://mohammed-baquer-portfolio.vercel.app/)**
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Languages:** Python · SQL · Java  
 **Machine Learning:** scikit-learn · LightGBM · XGBoost · Optuna · MLflow  
@@ -19,9 +19,9 @@ B.S. Applied Mathematics & Statistics + Technology Management, Stony Brook Unive
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🏎️ [F1 Race Outcome Predictor](https://github.com/Ehte08/F1-Predictor)
+### [F1 Race Outcome Predictor](https://github.com/Ehte08/F1-Predictor)
 
 Eight seasons of Formula 1 data, one LightGBM model, and a question I genuinely wanted answered: can you predict the podium before the race starts? The answer is yes — **NDCG@3 of 0.91**, Spearman 0.67 on a chronological hold-out. The pipeline handles everything from FastF1 + Ergast ingestion to Optuna hyperparameter search (30 trials), MLflow experiment tracking, a FastAPI REST endpoint, and a Streamlit dashboard on top. Leak-free rolling feature snapshots. Full pytest suite.
 
@@ -29,7 +29,7 @@ Eight seasons of Formula 1 data, one LightGBM model, and a question I genuinely 
 
 ---
 
-### 🦸 [Superhero Detector](https://github.com/Ehte08/Computer-Vision-Projects/tree/main/Superhero-detector)
+### [Superhero Detector](https://github.com/Ehte08/Computer-Vision-Projects/tree/main/Superhero-detector)
 
 I scraped ~3,900 images of 10 Marvel and DC heroes, then watched transfer learning do its thing: TinyCNN hit 55%, ResNet18 got to 89%, ResNet50 landed at **94% top-1 accuracy**. The Gradio demo runs hardware-aware inference — MPS on my Mac, CUDA on a GPU machine, CPU as a fallback.
 
@@ -37,15 +37,15 @@ I scraped ~3,900 images of 10 Marvel and DC heroes, then watched transfer learni
 
 ---
 
-### 🤖 [GenAI Chatbot](https://github.com/Ehte08)
+### [GenAI Chatbot](https://github.com/Ehte08)
 
-Built a generative AI chatbot that cut response times from 4–6 hours to under 10 minutes and deflected a significant volume of support tickets. Grounded in internal documentation through a retrieval layer — so it's fast and accurate.
+Built a generative AI chatbot that cut response times from 4–6 hours to under 10 minutes and deflected a significant volume of support tickets. Grounded in internal documentation through a retrieval layer — fast and accurate.
 
 `Generative AI` `LLM` `RAG` `NLP`
 
 ---
 
-### 📊 [Data Automation Pipeline](https://github.com/Ehte08)
+### [Data Automation Pipeline](https://github.com/Ehte08)
 
 Turned two days of manual reporting into same-day delivery. Automated ingestion, transformation, and output across 10K+ rows of operational data in Python and SQL.
 
@@ -53,7 +53,7 @@ Turned two days of manual reporting into same-day delivery. Automated ingestion,
 
 ---
 
-### 🤏 [PinchToHeart](https://github.com/Ehte08/Computer-Vision-Projects/tree/main/PinchToHeart)
+### [PinchToHeart](https://github.com/Ehte08/Computer-Vision-Projects/tree/main/PinchToHeart)
 
 A real-time CV app that detects a pinch gesture via webcam and fires a heart emoji over iMessage — no third-party APIs, just MediaPipe's 21-point 3D hand landmarks with a depth-aware false-positive filter running natively on macOS. Yes, I built this.
 
@@ -61,19 +61,31 @@ A real-time CV app that detects a pinch gesture via webcam and fires a heart emo
 
 ---
 
-## 🔨 In progress
+## Frontend / Design Projects
 
-**Bone Fracture Detection (YOLOv8)** — object detection on X-ray data, from annotation to mAP evaluation with a full writeup.
+I build these on the side — client work, personal tools, and things made for specific people. Each one has a README that tells the full story.
+
+| Project | What it is |
+|---|---|
+| [Personal Portfolio](https://github.com/Ehte08/personal-website) | Comic book portfolio site — Superman × Spider-Man visual identity, spring physics animations, six pages. Built with Next.js and Motion v12. |
+| [Muneezy Auto Sales](https://github.com/Ehte08/muneezy-auto-sales) | Full dealership website for a friend's used car lot in New York. TinaCMS so he can manage inventory himself. Live at [muneezyautosales.com](https://muneezyautosales.com). |
+| [CoreTherm Aerial](https://github.com/Ehte08/coretherm-site) | Company website built as an interview challenge for Geo Spooner. Hero video, scroll-driven MODO method section, 92% asset compression. Live at [corethermaerial.com](https://corethermaerial.com). |
+| [Fleur de Saiya](https://github.com/Ehte08/3d-loveletter-clark) | Immersive 3D love letter built with React Three Fiber and real physics. Petal-fall animations, velvet materials, device-orientation tilt on mobile. Live at [3d-loveletter-clark.vercel.app](https://3d-loveletter-clark.vercel.app). |
+| [Project Blue](https://github.com/Ehte08/islam-fund) | Funding and networking platform for faith-conscious entrepreneurs. Built for a friend I met at the mosque. Live at [projectblueadopters.com](https://projectblueadopters.com). |
+| [The Grand Library](https://github.com/Ehte08/humming-quill) | Digital textbook library for Stony Brook students — PDF chapter splitting, Cloudflare R2 CDN, focus mode reader, keyboard navigation. Live at [thegrandlibrary.vercel.app](https://thegrandlibrary.vercel.app). |
+| [Room Control](https://github.com/Ehte08/room-control) | Voice-controlled room automation — Govee API, offline speech recognition with Vosk, double-clap detection, fuzzy command matching. No Alexa required. |
+
+---
+
+## What's next
+
+**Bone Fracture Detection (YOLOv8)** — object detection on X-ray data, from annotation to mAP evaluation.
 
 **RAG Agent** — end-to-end retrieval-augmented generation with LangChain, a vector store, and an evaluation framework measuring retrieval quality and hallucination rate.
 
 **Causal Inference study** — Difference-in-Differences with parallel-trends validation, robustness checks, and event-study plots on a public-policy dataset.
 
----
-
-## 🎯 Right now I'm into
-
-LLM fine-tuning, agentic AI workflows with LangGraph, and LLM evaluation and safety frameworks. Also poking at LLM-driven code optimization over at [openevolvetest](https://github.com/Ehte08/openevolvetest).
+Right now I'm deep into LLM fine-tuning, agentic AI workflows with LangGraph, and LLM evaluation and safety frameworks. Also poking at LLM-driven code optimization over at [openevolvetest](https://github.com/Ehte08/openevolvetest).
 
 ---
 
